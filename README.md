@@ -13,7 +13,7 @@
 
 The Bill of Materials is available as a CSV file, which is dynamically updated from our ERP. We recommend using this **[web viewer](https://mekanika-dev.github.io/data-sync-actions/odoo/bom-viewer.html)** to browse its content.
 
-All 3D assembly files are made in STEP format and compatible with many CAD software. Please note that you will need Git LFS installed to clone or pull the repo correctly, since these files exceed 100MB.
+All 3D assembly files are made in STEP format and compatible with many CAD software. 
 
 The design files can also be viewed in web browsers using these links:
 
