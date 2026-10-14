@@ -17,11 +17,11 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The design files can also be viewed in web browsers using these links:
 
-- [Probe Devices](TODO)
+- [Probe Devices](https://a360.co/4zwW1iK)
 
 ## Assembly Guide
 
-The assembly guide is available on our [support website](TODO). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
+The assembly guide is available on our [support website](https://support.mekanika.io/products/probe-xyz/assembly-guide). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
 
 ## Community
 
